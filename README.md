@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**Zero-winter/Zero-winter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✦ Only fervent remains
 
-Here are some ideas to get you started:
+### ✦ Info
+```yaml
+Name: 3inter
+Located: Beijing City, China
+Major: Computer Science
+Fields_Of_Interests: ["Activity Bot", "Automation"]
+Currently_Learning: ["Python", "React", "DiscordJS"]
+Hobbies: ["Genshin Impact", "Wuthering Waves", "Open World", "Meowing Music", "Coding"]
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✦ Languages - Environments, Testing
+
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
